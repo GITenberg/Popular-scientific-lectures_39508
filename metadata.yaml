@@ -1,0 +1,37 @@
+_repo: Popular-scientific-lectures_39508
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: McCormack, Thomas J. (Thomas Joseph)
+    aliases:
+    - McCormack, Thomas
+    - McCormack, Thomas Joseph
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '38389'
+    url: http://www.gutenberg.org/2009/agents/38389
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mach, Ernst
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '40055'
+    url: http://www.gutenberg.org/2009/agents/40055
+description: ''
+gutenberg_issued: '2012-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39508'
+  lccn: '30014724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Physics'
+title: Popular scientific lectures
+url: http://www.gutenberg.org/ebooks/39508
